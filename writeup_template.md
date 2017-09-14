@@ -48,12 +48,12 @@ My pipeline consisted of 8 steps.
 
 Here are the resultant images produced.
 <img src="test_images_output/with_lines-solidWhiteCurve.jpg" width="480" alt="Combined Image" />
-![alt text][image1]: test_images_output/with_lines-solidWhiteCurve.jpg
-![alt text][image1]: test_images_output/with_lines-solidWhiteRight.jpg
-![alt text][image1]: test_images_output/with_lines-solidYellowCurve.jpg
-![alt text][image1]: test_images_output/with_lines-solidYellowCurve2.jpg
-![alt text][image1]: test_images_output/with_lines-solidYellowLeft.jpg
-![alt text][image1]: test_images_output/with_lines-whiteCarLaneSwitch.jpg
+<img src="test_images_output/with_lines-solidWhiteRight.jpg" width="480" alt="Combined Image" />
+<img src="test_images_output/with_lines-solidYellowCurve.jpg" width="480" alt="Combined Image" />
+<img src="test_images_output/with_lines-solidYellowCurve2.jpg" width="480" alt="Combined Image" />
+<img src="test_images_output/with_lines-solidYellowLeft.jpg" width="480" alt="Combined Image" />
+<img src="test_images_output/with_lines-whiteCarLaneSwitch..jpg" width="480" alt="Combined Image" />
+
 
 ### 2. Identify potential shortcomings with your current pipeline
 
