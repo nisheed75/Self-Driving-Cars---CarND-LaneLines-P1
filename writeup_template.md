@@ -12,7 +12,6 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
 
 ---
 
@@ -49,7 +48,7 @@ My pipeline consisted of 8 steps.
 
 Here are the resultant images produced.
 
-[image1]: test_images_output/with_lines-solidWhiteCurve.jpg
+![alt text][image1]: test_images_output/with_lines-solidWhiteCurve.jpg
 ![alt text][image1]: test_images_output/with_lines-solidWhiteRight.jpg
 ![alt text][image1]: test_images_output/with_lines-solidYellowCurve.jpg
 ![alt text][image1]: test_images_output/with_lines-solidYellowCurve2.jpg
