@@ -49,7 +49,7 @@ My pipeline consisted of 8 steps.
 
 Here are the resultant images produced.
 
-![alt text][image1]: test_images_output/with_lines-solidWhiteCurve.jpg
+[image1]: test_images_output/with_lines-solidWhiteCurve.jpg
 ![alt text][image1]: test_images_output/with_lines-solidWhiteRight.jpg
 ![alt text][image1]: test_images_output/with_lines-solidYellowCurve.jpg
 ![alt text][image1]: test_images_output/with_lines-solidYellowCurve2.jpg
