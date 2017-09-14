@@ -47,7 +47,7 @@ My pipeline consisted of 8 steps.
 8. Once I have this lines draw on a new image, I use the weight function to generate a new image with the lines marked on the original image.
 
 Here are the resultant images produced.
-
+<img src="test_images_output/with_lines-solidWhiteCurve.jpg" width="480" alt="Combined Image" />
 ![alt text][image1]: test_images_output/with_lines-solidWhiteCurve.jpg
 ![alt text][image1]: test_images_output/with_lines-solidWhiteRight.jpg
 ![alt text][image1]: test_images_output/with_lines-solidYellowCurve.jpg
